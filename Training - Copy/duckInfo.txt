@@ -1,0 +1,3 @@
+Emil Boc,60
+EmilBoc,10
+Geoana,10
