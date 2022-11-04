@@ -1,6 +1,6 @@
 class Person:
-    firstName = "doreeeeeel"
-    lastName = "ioaaa"
+    firstName = "ionel"
+    lastName = "marioara"
     age = ""
 #-----------------------------------------------------------------------------
     def __init__(self, firstName, lastName, age):
